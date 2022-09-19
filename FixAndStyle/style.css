@@ -1,0 +1,40 @@
+h1{
+  color: white;
+}
+
+#turnlightblue{
+  background-color: lightblue;
+}
+
+h3{
+  color: blue;
+}
+
+#turnorange{
+  color: orange;
+}
+
+#turnred{
+  color: red;
+}
+
+#turnyellow{
+  background-color: yellow;
+}
+
+#turndarkgreen{
+  background-color: darkgreen;
+  color: yellow;
+}
+
+h5{
+  color: red;
+}
+
+#yellowback{
+  background-color: yellow;
+}
+
+#turngreen{
+  background-color: green;
+}
