@@ -1,0 +1,43 @@
+h1{
+  color: red;
+  background-color: lightblue;
+}
+
+h2{
+  color: lightblue;
+  background-color: red;
+}
+
+h3{
+  background-color: blue;
+  color: green;
+}
+
+#turnyellow{
+  background-color: yellow;
+}
+
+.turnred{
+  color: red;
+}
+
+#turngreen{
+  color: green;
+}
+
+h4{
+  color: green;
+  background-color: blue;
+}
+
+a{
+  color: red;
+}
+
+a:visited{
+  color: green;
+}
+
+a:hover{
+  color: yellow;
+}
